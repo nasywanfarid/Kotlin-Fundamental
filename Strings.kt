@@ -5,10 +5,10 @@ fun main(){
     val wordfour = "Safe"
 
     val kotlin ="""
-        |Kotlin is $wordone
-        |Kotlin is $wordtwo
-        |kotlin is $wordthree
-        |Kotlin is $wordfour
+        Kotlin is $wordone
+        Kotlin is $wordtwo
+        kotlin is $wordthree
+        Kotlin is $wordfour
     """.trimMargin()
     print(kotlin)
 }
