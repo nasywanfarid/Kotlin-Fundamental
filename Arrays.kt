@@ -1,5 +1,5 @@
 fun main(){
-    val mixArray = arrayOf(30 , " januari ", 1993 , "SMK Telkom Purwokerto", true)
+    val mixArray = arrayOf(30 , " Januari ", 1993 , "SMK Telkom Purwokerto", true)
     print(mixArray[3])
     print(" berdiri tanggal ")
     print( mixArray[0] )
